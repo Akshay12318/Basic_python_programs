@@ -3,8 +3,7 @@ Python Practice Projects
 This repository contains a collection of small Python programs organized into different categories. These projects cover fundamental programming concepts such as loops, conditionals, mathematical calculations, number conversions, and pattern printing.
 ____________________________________________________________________________________________________________________________________________________________
 🔹 A. Basic Loops & Numbers
-
-**Programs focusing on loops, string operations, and basic numerical calculations.**
+Programs focusing on loops, string operations, and basic numerical calculations.
 ● Count characters until end of file
 ● Display cube of numbers
 ● Find string length
@@ -20,8 +19,7 @@ ________________________________________________________________________________
 ● Sum of natural numbers
 
 🔹 B. Patterns Printing
-
-**Programs to display various patterns using loops.**
+Programs to display various patterns using loops.
 ● Diamond pattern display
 ● Pyramid pattern with odd asterisks
 ● Pyramid pattern with repeated numbers
@@ -31,8 +29,7 @@ ________________________________________________________________________________
 ● Right angle triangle pattern with asterisks
 
 🔹 C. Mathematical Calculations
-
-**Programs implementing mathematical checks, series, and problem-solving.**
+Programs implementing mathematical checks, series, and problem-solving.
 ● Alternate sum series
 ● Armstrong number check
 ● Armstrong number in a range
@@ -47,8 +44,7 @@ ________________________________________________________________________________
 ● Sum of Geometric Progression (GP) series
 
 🔹 D. Number Conversions
-
-**Programs to convert numbers between different bases.**
+Programs to convert numbers between different bases.
 ● Binary to Decimal
 ● Binary to Octal conversion
 ● Decimal to Binary
@@ -56,7 +52,3 @@ ________________________________________________________________________________
 ● Decimal to Octal conversion
 ● Octal to Binary conversion
 ● Octal to Decimal conversion
-
-
-
-
